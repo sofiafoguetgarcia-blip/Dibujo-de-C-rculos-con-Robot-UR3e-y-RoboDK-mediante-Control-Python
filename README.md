@@ -1,4 +1,4 @@
-## Dibujo de Círculos con un Robot UR3e usando Python + RoboDK
+## Trazado de Círculos con un Robot UR3e usando Python + RoboDK
 Este proyecto implementa una solución completa para controlar un robot UR3e desde RoboDK con Python, con el objetivo de realizar el trazado preciso de un círculo sobre una superficie usando un lápiz como herramienta. El programa gestiona el descenso vertical del TCP, la generación del círculo mediante puntos discretos, movimientos seguros sin autocolisiones y retorno a la postura inicial del robot.
 
 
