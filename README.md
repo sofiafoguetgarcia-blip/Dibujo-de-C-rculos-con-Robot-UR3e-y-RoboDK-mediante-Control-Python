@@ -1,0 +1,2 @@
+# Dibujo-de-C-rculos-con-Robot-UR3e-y-RoboDK-mediante-Control-Python
+Un proyecto en Python integrado con RoboDK que permite a un robot UR3e dibujar un círculo de forma precisa sobre una superficie definida. El programa controla el descenso vertical del lápiz, genera un círculo mediante puntos discretizados y garantiza movimientos seguros sin autocolisiones. Incluye retorno automático a la posición inicial del robot.
