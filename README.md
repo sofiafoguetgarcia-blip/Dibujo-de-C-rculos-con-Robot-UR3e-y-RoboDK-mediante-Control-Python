@@ -106,18 +106,25 @@ Vuelve a su postura inicial
 # Seguridad del Movimiento
 El código evita problemas típicos:
 
-Bloqueos de cinemática
-Rotaciones inesperadas de muñeca
-Autocolisiones del UR3e
-Rayas residuales entre operaciones
-Cambios no deseados de TCP
+ - Bloqueos de cinemática
+
+ - Rotaciones inesperadas de muñeca
+
+ - Autocolisiones del UR3e
+
+ - Rayas residuales entre operaciones
+
+ - Cambios no deseados de TCP
 
 Gracias a:
 
-Uso de MoveL verticales con setRounding(0.0)
-Mantener siempre la orientación del Target 1
-No usar MoveC (que puede producir flips según orientación)
-Retorno controlado con MoveJ
+ - Uso de MoveL verticales con setRounding(0.0)
+
+ - Mantener siempre la orientación del Target 1
+
+ - No usar MoveC (que puede producir flips según orientación)
+
+ - Retorno controlado con MoveJ
 
 # Video
 
